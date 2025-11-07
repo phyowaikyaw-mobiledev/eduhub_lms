@@ -195,7 +195,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📞 Support
 
-For support, email your.email@example.com or create an issue in the repository.
+For support, email - phyowaikyawdeveloper@gmail.com or create an issue in the repository.
 
 ---
 
